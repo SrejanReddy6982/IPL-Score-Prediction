@@ -1,2 +1,2 @@
-# IPL-SCORE-PREDICTION-LIVE-WEATHER-INTEGRATION
+# IPL-SCORE-PREDICTION
 Ipl score prediction using live weather prediction
